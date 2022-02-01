@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Dance Party] (https://tenor.com/view/dance-anime-party-disco-discord-gif-24008325)
