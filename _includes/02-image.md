@@ -1,1 +1,1 @@
-![Dance Party] (https://tenor.com/view/dance-anime-party-disco-discord-gif-24008325)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
